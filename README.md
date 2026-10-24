@@ -18,7 +18,7 @@
 
 ---
 
-## `01` // WHO AM I?
+##  // WHO AM I?
 
 ```python
 class Developer:
@@ -49,7 +49,7 @@ me.say_hi()
 
 ---
 
-## `02` // TECH STACK
+##  // TECH STACK
 
 <div align="center">
 
@@ -69,7 +69,7 @@ me.say_hi()
 
 ---
 
-## `03` // GITHUB PERFORMANCE
+##  // GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -88,27 +88,8 @@ me.say_hi()
 
 ---
 
-## `04` // TROPHY ROOM
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=duogvdao206&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
-
-</div>
-
----
-
-## `05` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duogvdao206&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## `06` // 3D CONTRIBUTION UNIVERSE
+## // 3D CONTRIBUTION UNIVERSE
 
 <div align="center">
 
@@ -122,7 +103,7 @@ me.say_hi()
 
 ---
 
-## `07` // SNAKE PROTOCOL
+##  // SNAKE PROTOCOL
 
 <div align="center">
 
@@ -136,7 +117,7 @@ me.say_hi()
 
 ---
 
-## `08` // CONNECT
+##  // CONNECT
 
 <div align="center">
 
