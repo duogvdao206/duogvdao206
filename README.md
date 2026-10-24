@@ -41,12 +41,6 @@ me = Developer()
 me.say_hi()
 ```
 
-- 🎓 Information Technology student at **Dai Nam University**
-- 💻 Exploring software engineering and full-stack development
-- 🧠 Learning Machine Learning and computer networking
-- 🚀 Turning ideas into practical projects, one commit at a time
-- 🎯 Goal: write better code, build useful products, and never stop learning
-
 ---
 
 ## TECH STACK
