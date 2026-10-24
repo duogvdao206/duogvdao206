@@ -18,7 +18,7 @@
 
 ---
 
-##  // WHO AM I?
+## WHO AM I?
 
 ```python
 class Developer:
@@ -49,7 +49,7 @@ me.say_hi()
 
 ---
 
-##  // TECH STACK
+## TECH STACK
 
 <div align="center">
 
@@ -69,7 +69,7 @@ me.say_hi()
 
 ---
 
-##  // GITHUB PERFORMANCE
+## GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -89,7 +89,7 @@ me.say_hi()
 ---
 
 
-## // 3D CONTRIBUTION UNIVERSE
+## 3D CONTRIBUTION UNIVERSE
 
 <div align="center">
 
@@ -103,7 +103,7 @@ me.say_hi()
 
 ---
 
-##  // SNAKE PROTOCOL
+## SNAKE PROTOCOL
 
 <div align="center">
 
@@ -117,7 +117,7 @@ me.say_hi()
 
 ---
 
-##  // CONNECT
+## CONNECT
 
 <div align="center">
 
