@@ -11,10 +11,10 @@
 ---
 
 ## 👨‍💻 Giới thiệu
-- 🎓 Sinh viên CNTT, Đại học Đại Nam (lớp CNTT 18-11)
+- 🎓 Sinh viên CNTT
 - 🔭 Đang học: Phát triển phần mềm, Học máy, Mạng máy tính
 - 🌱 Thích làm các dự án nhóm và học công nghệ mới
-- 📫 Liên hệ: [điền email của bạn]
+- 📫 Liên hệ: daovanduong4112006a@gmail.com
 
 ---
 
@@ -31,18 +31,6 @@
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-
-</div>
-
----
-
-## 📊 Thống kê GitHub
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=duogvdao206&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duogvdao206&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=duogvdao206&theme=radical&hide_border=true" />
 
 </div>
 
