@@ -1,22 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Xin%20chào,%20mình%20là%20Dương&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Sinh%20viên%20CNTT%20-%20Đại%20học%20Đại%20Nam&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=DƯƠNG&fontSize=80&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=%3C%2F%3E%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Level%20Up&descAlignY=62&descSize=20" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Sinh+viên+Công+nghệ+thông+tin;Java+%7C+PHP+%7C+Web+%7C+Machine+Learning;Luôn+học+hỏi,+luôn+tiến+bộ+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%3E+whoami+%E2%86%92+Sinh+viên+CNTT+%7C+Đại+học+Đại+Nam;%3E+stack+%E2%86%92+Java+%7C+PHP+%7C+Web+%7C+ML;%3E+status+%E2%86%92+Đang+build+dự+án+mới+%F0%9F%9A%80)](https://github.com/duogvdao206)
 
-![Profile Views](https://komarev.com/ghpvc/?username=duogvdao206&label=Lượt+xem+profile&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=duogvdao206&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=0f0c29" />
 
 </div>
 
----
+## ⚡ ABOUT ME
+- 🎓 Sinh viên CNTT, Đại học Đại Nam
+- 🔭 Đang học: Phát triển phần mềm, Machine Learning, Mạng máy tính
+- 📫 Liên hệ: [điền email]
 
-## 👨‍💻 Giới thiệu
-- 🎓 Sinh viên CNTT
-- 🔭 Đang học: Phát triển phần mềm, Học máy, Mạng máy tính
-- 🌱 Thích làm các dự án nhóm và học công nghệ mới
-- 📫 Liên hệ: daovanduong4112006a@gmail.com
+## 🧰 TECH ARSENAL
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,php,python,html,css,js,mysql,git,github,ubuntu,vscode&perline=11&theme=dark" />
+</div>
 
----
+## 📊 STATS
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duogvdao206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7b2ff7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duogvdao206&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=duogvdao206&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" />
+</div>
+
+## 📈 ACTIVITY GRAPH
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duogvdao206&bg_color=0f0c29&color=00f5ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" width="100%" />
+</div>
+
+## 🏆 TROPHIES
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=duogvdao206&theme=onedark&column=7&margin-w=10&no-bg=true&no-frame=true" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
 
 ## 🛠 Công nghệ
 <div align="center">
@@ -36,23 +56,8 @@
 
 ---
 
-## 🏆 Thành tích
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=duogvdao206&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true" />
 
-</div>
-
----
-
-## 📈 Hoạt động
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duogvdao206&theme=react-dark&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 ## 🐍 Rắn ăn contribution
 <div align="center">
