@@ -1,4 +1,3 @@
-# ⚡ DƯƠNG — Developer in Progress
 
 <div align="center">
 
@@ -15,33 +14,6 @@
 <img src="https://img.shields.io/badge/STATUS-Always%20Learning-0A0A0A?style=for-the-badge&logo=codewars&logoColor=00F5FF" />
 
 </div>
-
----
-
-## WHO AM I?
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dương"
-        self.role = "IT Student & Developer"
-        self.university = "Dai Nam University"
-        self.interests = [
-            "Software Engineering",
-            "Web Development",
-            "Machine Learning",
-            "Computer Networks"
-        ]
-        self.mindset = "Learn. Build. Improve. Repeat."
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-
-me = Developer()
-me.say_hi()
-```
-
----
 
 ## TECH STACK
 
@@ -61,27 +33,6 @@ me.say_hi()
 
 </div>
 
----
-
-## GITHUB PERFORMANCE
-
-<div align="center">
-
-<a href="https://github.com/duogvdao206">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=duogvdao206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/duogvdao206">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duogvdao206&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-</a>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=duogvdao206&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 
 ## 3D CONTRIBUTION UNIVERSE
 
@@ -95,21 +46,6 @@ me.say_hi()
   <i>Every contribution is another block in the world I'm building.</i>
 </p>
 
----
-
-## SNAKE PROTOCOL
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duogvdao206/duogvdao206/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duogvdao206/duogvdao206/output/github-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/duogvdao206/duogvdao206/output/github-snake-dark.svg" alt="Animated contribution snake" />
-</picture>
-
-</div>
-
----
 
 ## CONNECT
 
