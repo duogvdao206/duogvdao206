@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:171044,70:302b63,100:00f5ff&text=DƯƠNG&fontSize=90&fontColor=00F5FF&fontAlignY=38&desc=CODE%20%2F%20CREATE%20%2F%20INNOVATE&descSize=18&descAlignY=60&animation=twinkling&stroke=00F5FF&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,40:171044,75:302b63,100:00f5ff&text=ĐÀO%20VĂN%20DƯƠNG&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=CODE%20%2F%20CREATE%20%2F%20INNOVATE&descSize=18&descColor=00F5FF&descAlignY=62" />
 
 <a href="https://github.com/duogvdao206">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+th%C3%B4ng+tin;Java+%7C+PHP+%7C+Python+%7C+Machine+Learning;Building+ideas+into+real+projects;One+commit+closer+to+the+next+level." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&repeat=false&width=650&height=50&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+th%C3%B4ng+tin;Java+%7C+PHP+%7C+Python+%7C+Machine+Learning;Building+ideas+into+real+projects" alt="Typing SVG" />
 </a>
 
 <br/>
